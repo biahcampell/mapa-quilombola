@@ -43,4 +43,4 @@ Um sistema de software pode:
 - Facilitar a consulta por pesquisadores, órgãos públicos e pela população em geral.
 
 ---
-_Atividade desenvolvida para a disciplina de Modelagem de Sistemas.
+_Atividade desenvolvida para a disciplina de Modelagem de Sistemas..

@@ -14,3 +14,4 @@ O **software** é a aplicação cartográfica ou a plataforma web construída (o
 
 ### 5. Deixe registrada uma dúvida ou pergunta para a próxima aula.
 "Como podemos estruturar a arquitetura do sistema para consumir dados de órgãos governamentais (via serviços WMS/WFS) de forma automatizada, garantindo que o nosso mapa quilombola esteja sempre atualizado?".
+# Atividade do Fernando Carvalho

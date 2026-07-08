@@ -9,8 +9,7 @@
 **Trilha:** Mapa Temporal Participativo de Memória Quilombola  
 **Nome do projeto:** Portal de Memórias e Mapa Quilombola (PMMQ)  
 **Data:** 08/07/2026  
-**Versão:** D0  
-
+**Versão:** D0
 ---
 
 ## Controle do Documento
